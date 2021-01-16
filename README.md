@@ -1,2 +1,2 @@
-# gulimail
+# gulimaill
 谷粒商城

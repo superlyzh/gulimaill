@@ -40,4 +40,11 @@ build/
 **/target/
 .idea
 
+.gitignore
 **/.gitignore
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+out
+gen
